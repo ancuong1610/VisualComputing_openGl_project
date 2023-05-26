@@ -1,0 +1,1 @@
+ "libs/glfw-3.2.1/src/libglfw3.a" lib/libglew32d.a -lopengl32 -lglu32 libs/stb/libstb.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

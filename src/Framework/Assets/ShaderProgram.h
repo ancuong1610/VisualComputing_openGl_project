@@ -52,13 +52,12 @@ public:
 	bool setUniform(const std::string& name, const glm::mat3& value, bool transpose);
 	bool setUniform(const std::string& name, const glm::mat4& value, bool transpose);
 
-private:
-	GLint getUniformLocation(const char* name)
-	{
-		if (!prog)
-			return -1;
-		return glGetUniformLocation(this->prog, name); GLERR
-	}
+    GLint getUniformLocation(const char* name)
+    {
+        if (!prog)
+            return -1;
+        return glGetUniformLocation(this->prog, name); GLERR
+    }
 };
 
 inline bool ShaderProgram::setUniform(const std::string& name, GLfloat value)

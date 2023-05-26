@@ -6,6 +6,12 @@ Scene::Scene(OpenGLWindow * window) :
 	m_window(window)
 {
 	assert(window != nullptr);
+
+    cameraPosition = glm::vec3 (0.0f, 0.0f, 2.0f);
+    targetPosition = glm::vec3 (0.0f, 0.0f, 0.0f);
+    upVector = glm::vec3 (0.0f, 1.0f, 0.0f);
+
+    viewMatrix = glm::lookAt(cameraPosition, targetPosition, upVector);
 }
 
 Scene::~Scene()
@@ -118,8 +124,8 @@ bool Scene::init()
         glClearColor(0.0f, 0.0f, 0.0f, 1.0f);
 
         glEnable(GL_DEPTH_TEST);
-        glDepthFunc(GL_GREATER);
-        glClearDepth(0.0);
+        glDepthFunc(GL_LESS);
+        glClearDepth(1.0);
 
         std::cout << "Scene initialization done\n";
         return true;
@@ -150,6 +156,19 @@ void Scene::render(float dt)
         time = 0;
         rightMove = !rightMove;
     }
+
+    float fov = 45.0f;
+    float aspectRatio = 1.33f;
+    float nearPlane = 0.1f;
+    float farPlane = 100.0f;
+
+    glm::mat4 projectionMatrix = glm::perspective(glm::radians(fov), aspectRatio, nearPlane, farPlane);
+
+    GLint viewMatrixLocation = m_shader->getUniformLocation("viewMatrix");
+    glUniformMatrix4fv(viewMatrixLocation, 1, GL_FALSE, glm::value_ptr(viewMatrix));
+
+    GLint projectionMatrixLocation = m_shader->getUniformLocation("projectionMatrix");
+    glUniformMatrix4fv(projectionMatrixLocation, 1, GL_FALSE, glm::value_ptr(projectionMatrix));
 
     // Rotiere Robot um 0.2 rad pro Sekunde
 
@@ -227,7 +246,15 @@ void Scene::render(float dt)
 
 void Scene::update(float dt)
 {
-
+    if (m_window->getInput().getKeyState(Key::D) == KeyState::Pressed) {
+        alle->setPosition(glm::vec3(0.5f, 0.0f, 0.0f));
+    }
+    else if (m_window->getInput().getKeyState(Key::A) == KeyState::Pressed) {
+        alle->setPosition(glm::vec3(-0.5f, 0.0f, 0.0f));
+    }
+    else if (m_window->getInput().getKeyState(Key::B) == KeyState::Pressed) {
+        alle->setPosition(glm::vec3(0.0f));
+    }
 }
 
 OpenGLWindow * Scene::getWindow()
@@ -242,7 +269,21 @@ void Scene::onKey(Key key, Action action, Modifier modifier)
 
 void Scene::onMouseMove(MousePosition mouseposition)
 {
+    auto newPosition = glm::vec2(mouseposition.X, mouseposition.Y);
+    auto oldPosition = glm::vec2(mouseposition.oldX, mouseposition.oldY);
+    auto direction = newPosition - oldPosition;
 
+    float sensitivity = 0.005f;
+    float yaw = sensitivity * direction.x;
+    float pitch = sensitivity * direction.y;
+
+    glm::mat4 rotationMatrix = glm::rotate(glm::mat4(1.0f), yaw, upVector) * glm::rotate(glm::mat4(1.0f), pitch, glm::vec3(1.0f, 0.0f, 0.0f));
+    glm::vec3 rotatedCameraPosition = glm::vec3(rotationMatrix * glm::vec4(cameraPosition - targetPosition, 1.0f));
+    cameraPosition = rotatedCameraPosition + targetPosition;
+    viewMatrix = glm::lookAt(cameraPosition, targetPosition, upVector);
+
+    mouseposition.oldX = mouseposition.X;
+    mouseposition.oldY = mouseposition.Y;
 }
 
 void Scene::onMouseButton(MouseButton button, Action action, Modifier modifier)

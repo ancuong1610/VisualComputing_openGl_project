@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/manht/4. Semester/VC/OpenGL_Praktikum/libs
+# Install script for directory: C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,10 +39,10 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/manht/4. Semester/VC/OpenGL_Praktikum/cmake-build-debug/libs/glm-master/cmake_install.cmake")
-  include("C:/Users/manht/4. Semester/VC/OpenGL_Praktikum/cmake-build-debug/libs/glfw-3.2.1/cmake_install.cmake")
-  include("C:/Users/manht/4. Semester/VC/OpenGL_Praktikum/cmake-build-debug/libs/glew-2.1.0/build/cmake/cmake_install.cmake")
-  include("C:/Users/manht/4. Semester/VC/OpenGL_Praktikum/cmake-build-debug/libs/stb/cmake_install.cmake")
+  include("C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/cmake_install.cmake")
+  include("C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/cmake_install.cmake")
+  include("C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glew-2.1.0/build/cmake/cmake_install.cmake")
+  include("C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/stb/cmake_install.cmake")
 
 endif()
 

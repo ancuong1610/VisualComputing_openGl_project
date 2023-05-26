@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2023.1.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.1.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\manht\4. Semester\VC\OpenGL_Praktikum" -B "C:\Users\manht\4. Semester\VC\OpenGL_Praktikum\cmake-build-debug"
+"C:\Program Files\JetBrains\CLion 2023.1.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "C:\Users\manht\4. Semester\VC\visual-computing-prak2" -B "C:\Users\manht\4. Semester\VC\visual-computing-prak2\cmake-build-debug"
 -- GLM is a header only library, no need to build it. Set the option GLM_TEST_ENABLE with ON to build and run the test bench
 GLM: GCC - GNU compiler
 CMake Deprecation Warning at libs/glfw-3.2.1/CMakeLists.txt:10 (cmake_policy):
@@ -15,4 +15,4 @@ CMake Deprecation Warning at libs/glfw-3.2.1/CMakeLists.txt:10 (cmake_policy):
 -- Using Win32 for window creation
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/manht/4. Semester/VC/OpenGL_Praktikum/cmake-build-debug
+-- Build files have been written to: C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug

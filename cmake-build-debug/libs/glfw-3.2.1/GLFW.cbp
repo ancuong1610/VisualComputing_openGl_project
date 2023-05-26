@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GLFW"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\libs\;CMake Files\libs\glfw-3.2.1\;CMake Files\libs\glfw-3.2.1\CMake\;CMake Files\libs\glfw-3.2.1\CMake\modules\;CMake Files\libs\glfw-3.2.1\src\;CMake Files\libs\glm-master\;CMake Files\libs\glm-master\cmake\;CMake Files\libs\glm-master\glm\;CMake Files\libs\glm-master\test\;CMake Files\libs\glm-master\test\bug\;CMake Files\libs\glm-master\test\core\;CMake Files\libs\glm-master\test\ext\;CMake Files\libs\glm-master\test\gtc\;CMake Files\libs\glm-master\test\gtx\;CMake Files\libs\glew-2.1.0\;CMake Files\libs\glew-2.1.0\build\;CMake Files\libs\glew-2.1.0\build\cmake\;CMake Files\libs\stb\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="glfw">
+				<Option output="C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/src/libglfw3.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_GLFW_USE_CONFIG_H"/>
+					<Add option="-DUNICODE"/>
+					<Add option="-DWINVER=0x0501"/>
+					<Add directory="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/include"/>
+					<Add directory="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src"/>
+					<Add directory="C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/src"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/src/Makefile&quot;  VERBOSE=1 glfw"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="glfw/fast">
+				<Option output="C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/src/libglfw3.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D_GLFW_USE_CONFIG_H"/>
+					<Add option="-DUNICODE"/>
+					<Add option="-DWINVER=0x0501"/>
+					<Add directory="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/include"/>
+					<Add directory="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src"/>
+					<Add directory="C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/src"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/src/Makefile&quot;  VERBOSE=1 glfw/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/src/glfw_config.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/include/GLFW/glfw3.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/include/GLFW/glfw3native.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/context.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/egl_context.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/egl_context.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/init.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/input.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/internal.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/monitor.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/vulkan.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/wgl_context.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/wgl_context.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/win32_init.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/win32_joystick.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/win32_joystick.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/win32_monitor.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/win32_platform.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/win32_time.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/win32_tls.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/win32_window.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/window.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libs\"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libs\glfw-3.2.1\"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/CMake/modules/FindVulkan.cmake">
+			<Option virtualFolder="CMake Files\libs\glfw-3.2.1\CMake\modules\"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libs\glfw-3.2.1\src\"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/glfw3.pc.in">
+			<Option virtualFolder="CMake Files\libs\glfw-3.2.1\src\"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/glfw3Config.cmake.in">
+			<Option virtualFolder="CMake Files\libs\glfw-3.2.1\src\"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/glfw_config.h.in">
+			<Option virtualFolder="CMake Files\libs\glfw-3.2.1\src\"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glm-master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libs\glm-master\"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glm-master/cmake_uninstall.cmake.in">
+			<Option virtualFolder="CMake Files\libs\glm-master\"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glm-master/cmake/glm.pc.in">
+			<Option virtualFolder="CMake Files\libs\glm-master\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glm-master/cmake/glmBuildConfig.cmake.in">
+			<Option virtualFolder="CMake Files\libs\glm-master\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glm-master/cmake/glmConfig.cmake.in">
+			<Option virtualFolder="CMake Files\libs\glm-master\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glm-master/glm/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libs\glm-master\glm\"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glm-master/test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libs\glm-master\test\"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glm-master/test/bug/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libs\glm-master\test\bug\"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glm-master/test/core/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libs\glm-master\test\core\"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glm-master/test/ext/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libs\glm-master\test\ext\"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glm-master/test/gtc/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libs\glm-master\test\gtc\"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glm-master/test/gtx/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libs\glm-master\test\gtx\"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glew-2.1.0/glew.pc.in">
+			<Option virtualFolder="CMake Files\libs\glew-2.1.0\"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glew-2.1.0/build/cmake/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libs\glew-2.1.0\build\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/stb/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libs\stb\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

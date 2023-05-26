@@ -1,0 +1,2 @@
+C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\ar.exe qc libstb.a CMakeFiles/stb.dir/stb_image.c.obj CMakeFiles/stb.dir/stb_image_write.c.obj
+C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\ranlib.exe libstb.a

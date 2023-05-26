@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/manht/4. Semester/VC/OpenGL_Praktikum/libs/glm-master/test/gtx
+# Install script for directory: C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glm-master/test/gtx
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

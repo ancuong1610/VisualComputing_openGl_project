@@ -1,14 +1,16 @@
 #version 330 core
 
-layout (location = 0) in vec3 pos;
 layout (location = 1) in vec3 colorRGB;
+layout (location = 0) in vec3 vertex;
+
+uniform mat4 mm;
+uniform mat4 viewMatrix;
+uniform mat4 projectionMatrix;
 
 out vec3 colorVS;
 
-uniform mat4 mm;
-
 void main(){
     colorVS = colorRGB;
-    gl_Position = mm * vec4(pos.x, pos.y, pos.z, 1.0);
+    gl_Position = projectionMatrix * viewMatrix * mm * vec4(vertex, 1.0);
 
 }

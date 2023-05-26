@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/manht/4. Semester/VC/OpenGL_Praktikum/libs/glm-master
+# Install script for directory: C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glm-master
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,13 +38,13 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "C:/Users/manht/4. Semester/VC/OpenGL_Praktikum/libs/glm-master/glm")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glm-master/glm")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/glm" TYPE FILE FILES
-    "C:/Users/manht/4. Semester/VC/OpenGL_Praktikum/cmake-build-debug/libs/glm-master/lib/cmake/glm/glmConfig.cmake"
-    "C:/Users/manht/4. Semester/VC/OpenGL_Praktikum/cmake-build-debug/libs/glm-master/glmConfigVersion.cmake"
+    "C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/lib/cmake/glm/glmConfig.cmake"
+    "C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/glmConfigVersion.cmake"
     )
 endif()
 
@@ -52,7 +52,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/glm/glmTargets.cmake")
     file(DIFFERENT _cmake_export_file_changed FILES
          "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/glm/glmTargets.cmake"
-         "C:/Users/manht/4. Semester/VC/OpenGL_Praktikum/cmake-build-debug/libs/glm-master/CMakeFiles/Export/820b120f1c4a30a4249350d158e86720/glmTargets.cmake")
+         "C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/CMakeFiles/Export/820b120f1c4a30a4249350d158e86720/glmTargets.cmake")
     if(_cmake_export_file_changed)
       file(GLOB _cmake_old_config_files "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/glm/glmTargets-*.cmake")
       if(_cmake_old_config_files)
@@ -65,17 +65,17 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
     endif()
     unset(_cmake_export_file_changed)
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/glm" TYPE FILE FILES "C:/Users/manht/4. Semester/VC/OpenGL_Praktikum/cmake-build-debug/libs/glm-master/CMakeFiles/Export/820b120f1c4a30a4249350d158e86720/glmTargets.cmake")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/glm" TYPE FILE FILES "C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/CMakeFiles/Export/820b120f1c4a30a4249350d158e86720/glmTargets.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "C:/Users/manht/4. Semester/VC/OpenGL_Praktikum/cmake-build-debug/libs/glm-master/glm.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/glm.pc")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/manht/4. Semester/VC/OpenGL_Praktikum/cmake-build-debug/libs/glm-master/glm/cmake_install.cmake")
-  include("C:/Users/manht/4. Semester/VC/OpenGL_Praktikum/cmake-build-debug/libs/glm-master/test/cmake_install.cmake")
+  include("C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/glm/cmake_install.cmake")
+  include("C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/cmake_install.cmake")
 
 endif()
 

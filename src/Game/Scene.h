@@ -31,6 +31,11 @@ private:
     GLuint vaoID, vboID;
     GLuint  iboID;
 
+    glm::vec3 cameraPosition;
+    glm::vec3 targetPosition;
+    glm::vec3 upVector;
+    glm::mat4 viewMatrix;
+
     Transform *kopf, *rumpf, *rechtOberarm, *linkOberarm, *rechtUnterarm, *linkUnterarm, *rechtArm, *linkArm, *rechtBein, *linkBein, *alle, *alle1;
 };
 
