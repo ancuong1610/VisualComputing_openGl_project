@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glew-2.1.0/build/cmake
+# Install script for directory: /Users/faze/Downloads/prak4/libs/glew-2.1.0/build/cmake
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/OpenGL_Praktikum")
+  set(CMAKE_INSTALL_PREFIX "/usr/local")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,22 +34,26 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Program Files/JetBrains/CLion 2023.1.2/bin/mingw/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/objdump")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/lib/libglew32d.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/Users/faze/Downloads/prak4/cmake-build-debug/lib/libGLEWd.a")
+  if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libGLEWd.a" AND
+     NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libGLEWd.a")
+    execute_process(COMMAND "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libGLEWd.a")
+  endif()
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glew-2.1.0/build/cmake/../../glew.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/Users/faze/Downloads/prak4/libs/glew-2.1.0/build/cmake/../../glew.pc")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/GL" TYPE FILE FILES
-    "C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glew-2.1.0/build/cmake/../../include/GL/wglew.h"
-    "C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glew-2.1.0/build/cmake/../../include/GL/glew.h"
-    "C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glew-2.1.0/build/cmake/../../include/GL/glxew.h"
+    "/Users/faze/Downloads/prak4/libs/glew-2.1.0/build/cmake/../../include/GL/wglew.h"
+    "/Users/faze/Downloads/prak4/libs/glew-2.1.0/build/cmake/../../include/GL/glew.h"
+    "/Users/faze/Downloads/prak4/libs/glew-2.1.0/build/cmake/../../include/GL/glxew.h"
     )
 endif()
 
@@ -57,7 +61,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/glew/glew-targets.cmake")
     file(DIFFERENT _cmake_export_file_changed FILES
          "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/glew/glew-targets.cmake"
-         "C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glew-2.1.0/build/cmake/CMakeFiles/Export/7a894a12241bfddc41ca6be6d0e647bd/glew-targets.cmake")
+         "/Users/faze/Downloads/prak4/cmake-build-debug/libs/glew-2.1.0/build/cmake/CMakeFiles/Export/7a894a12241bfddc41ca6be6d0e647bd/glew-targets.cmake")
     if(_cmake_export_file_changed)
       file(GLOB _cmake_old_config_files "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/glew/glew-targets-*.cmake")
       if(_cmake_old_config_files)
@@ -70,16 +74,16 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
     endif()
     unset(_cmake_export_file_changed)
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/glew" TYPE FILE FILES "C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glew-2.1.0/build/cmake/CMakeFiles/Export/7a894a12241bfddc41ca6be6d0e647bd/glew-targets.cmake")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/glew" TYPE FILE FILES "/Users/faze/Downloads/prak4/cmake-build-debug/libs/glew-2.1.0/build/cmake/CMakeFiles/Export/7a894a12241bfddc41ca6be6d0e647bd/glew-targets.cmake")
   if(CMAKE_INSTALL_CONFIG_NAME MATCHES "^([Dd][Ee][Bb][Uu][Gg])$")
-    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/glew" TYPE FILE FILES "C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glew-2.1.0/build/cmake/CMakeFiles/Export/7a894a12241bfddc41ca6be6d0e647bd/glew-targets-debug.cmake")
+    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/glew" TYPE FILE FILES "/Users/faze/Downloads/prak4/cmake-build-debug/libs/glew-2.1.0/build/cmake/CMakeFiles/Export/7a894a12241bfddc41ca6be6d0e647bd/glew-targets-debug.cmake")
   endif()
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/glew" TYPE FILE FILES
-    "C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glew-2.1.0/build/cmake/glew-config.cmake"
-    "C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glew-2.1.0/build/cmake/CopyImportedTargetProperties.cmake"
+    "/Users/faze/Downloads/prak4/libs/glew-2.1.0/build/cmake/glew-config.cmake"
+    "/Users/faze/Downloads/prak4/libs/glew-2.1.0/build/cmake/CopyImportedTargetProperties.cmake"
     )
 endif()
 

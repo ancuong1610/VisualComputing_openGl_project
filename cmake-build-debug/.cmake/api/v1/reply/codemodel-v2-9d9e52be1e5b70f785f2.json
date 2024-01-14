@@ -1,0 +1,375 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "libs",
+					"childIndexes" : 
+					[
+						2,
+						10,
+						12,
+						13
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-libs-Debug-ec580da4e47c3b0e73da.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "libs"
+				},
+				{
+					"build" : "libs/glm-master",
+					"childIndexes" : 
+					[
+						3,
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-libs.glm-master-Debug-f36706a159a9bc0f2da1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "libs/glm-master",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "libs/glm-master/glm",
+					"jsonFile" : "directory-libs.glm-master.glm-Debug-e2206569158009152621.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 2,
+					"source" : "libs/glm-master/glm",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "libs/glm-master/test",
+					"childIndexes" : 
+					[
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"jsonFile" : "directory-libs.glm-master.test-Debug-68374882f158746f9ab8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 2,
+					"source" : "libs/glm-master/test"
+				},
+				{
+					"build" : "libs/glm-master/test/bug",
+					"jsonFile" : "directory-libs.glm-master.test.bug-Debug-c9447e21c8d6982a6faa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 2,
+					"source" : "libs/glm-master/test/bug"
+				},
+				{
+					"build" : "libs/glm-master/test/core",
+					"jsonFile" : "directory-libs.glm-master.test.core-Debug-ae1f61527dd186e12066.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 2,
+					"source" : "libs/glm-master/test/core"
+				},
+				{
+					"build" : "libs/glm-master/test/ext",
+					"jsonFile" : "directory-libs.glm-master.test.ext-Debug-141008bbd32afa4e2152.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 2,
+					"source" : "libs/glm-master/test/ext"
+				},
+				{
+					"build" : "libs/glm-master/test/gtc",
+					"jsonFile" : "directory-libs.glm-master.test.gtc-Debug-71098925dd8bdaeaffc8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 2,
+					"source" : "libs/glm-master/test/gtc"
+				},
+				{
+					"build" : "libs/glm-master/test/gtx",
+					"jsonFile" : "directory-libs.glm-master.test.gtx-Debug-709dfc5ccf8e05464800.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 2,
+					"source" : "libs/glm-master/test/gtx"
+				},
+				{
+					"build" : "libs/glfw-3.2.1",
+					"childIndexes" : 
+					[
+						11
+					],
+					"jsonFile" : "directory-libs.glfw-3.2.1-Debug-b0239a489f6c283a95a7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 3,
+					"source" : "libs/glfw-3.2.1"
+				},
+				{
+					"build" : "libs/glfw-3.2.1/src",
+					"jsonFile" : "directory-libs.glfw-3.2.1.src-Debug-bfd4112f5068b90f432d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 3,
+					"source" : "libs/glfw-3.2.1/src",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "libs/glew-2.1.0/build/cmake",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-libs.glew-2.1.0.build.cmake-Debug-c0dbc5e0da3a4ce2f65f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 4,
+					"source" : "libs/glew-2.1.0/build/cmake",
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				},
+				{
+					"build" : "libs/stb",
+					"jsonFile" : "directory-libs.stb-Debug-999db47acc2e288e6620.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 5,
+					"source" : "libs/stb",
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OpenGL_Praktikum",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "external_dependencies",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"name" : "glm",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						4,
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						10,
+						11
+					],
+					"name" : "GLFW",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						12
+					],
+					"name" : "glew",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						13
+					],
+					"name" : "stb_lib",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenGL_Praktikum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenGL_Praktikum-Debug-3025e7e9cb5f5792fc5d.json",
+					"name" : "OpenGL_Praktikum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "glew::@717d470b011500e00557",
+					"jsonFile" : "target-glew-Debug-df080d09c29daae17f6b.json",
+					"name" : "glew",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "glew_s::@717d470b011500e00557",
+					"jsonFile" : "target-glew_s-Debug-985e17fb760a4609180e.json",
+					"name" : "glew_s",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "glfw::@3be6e5b4e7ef208431a5",
+					"jsonFile" : "target-glfw-Debug-a44c37a23fd401a4fc18.json",
+					"name" : "glfw",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "glm_dummy::@c4b06e10c1177513689b",
+					"jsonFile" : "target-glm_dummy-Debug-b30f70b72f429917d40e.json",
+					"name" : "glm_dummy",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "stb::@9a2ae61009350e897074",
+					"jsonFile" : "target-stb-Debug-83ad83cdafd7717106b2.json",
+					"name" : "stb",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "uninstall::@b5e8752a874fdca4f5aa",
+					"jsonFile" : "target-uninstall-Debug-2a6451d548b59b38ef2c.json",
+					"name" : "uninstall",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/faze/Downloads/prak4/cmake-build-debug",
+		"source" : "/Users/faze/Downloads/prak4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

@@ -1,12 +1,11 @@
 file(REMOVE_RECURSE
-  "../../../../lib/libglew32d.a"
-  "../../../../lib/libglew32d.pdb"
-  "CMakeFiles/glew_s.dir/__/__/src/glew.c.obj"
-  "CMakeFiles/glew_s.dir/__/__/src/glew.c.obj.d"
-  "CMakeFiles/glew_s.dir/__/glew.rc.obj"
+  "../../../../lib/libGLEWd.a"
+  "../../../../lib/libGLEWd.pdb"
+  "CMakeFiles/glew_s.dir/__/__/src/glew.c.o"
+  "CMakeFiles/glew_s.dir/__/__/src/glew.c.o.d"
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang C RC)
+foreach(lang C)
   include(CMakeFiles/glew_s.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()

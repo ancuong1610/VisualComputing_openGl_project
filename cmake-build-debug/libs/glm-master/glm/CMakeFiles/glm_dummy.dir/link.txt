@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2023.1.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\glm_dummy.dir/objects.a
-C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\ar.exe qc CMakeFiles\glm_dummy.dir/objects.a @CMakeFiles\glm_dummy.dir\objects1
-C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\glm_dummy.dir/objects.a -Wl,--no-whole-archive -o glm_dummy.exe -Wl,--out-implib,libglm_dummy.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\glm_dummy.dir\linkLibs.rsp
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/glm_dummy.dir/detail/dummy.cpp.o CMakeFiles/glm_dummy.dir/detail/glm.cpp.o -o glm_dummy 

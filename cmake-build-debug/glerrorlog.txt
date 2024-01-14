@@ -1,0 +1,4 @@
+An OpenGL error occured at file: "/Users/faze/Downloads/prak3/src/Framework/Assets/ShaderProgram.h", line: 26:
+invalid value
+An OpenGL error occured at file: "/Users/faze/Downloads/prak3/src/Framework/Assets/ShaderProgram.h", line: 26:
+invalid value

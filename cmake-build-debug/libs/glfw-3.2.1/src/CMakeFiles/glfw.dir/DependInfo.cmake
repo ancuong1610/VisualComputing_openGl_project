@@ -8,24 +8,23 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/context.c" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/context.c.obj" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/context.c.obj.d"
-  "C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/egl_context.c" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/egl_context.c.obj" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/egl_context.c.obj.d"
-  "C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/init.c" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/init.c.obj" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/init.c.obj.d"
-  "C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/input.c" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/input.c.obj" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/input.c.obj.d"
-  "C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/monitor.c" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/monitor.c.obj" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/monitor.c.obj.d"
-  "C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/vulkan.c" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/vulkan.c.obj" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/vulkan.c.obj.d"
-  "C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/wgl_context.c" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/wgl_context.c.obj" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/wgl_context.c.obj.d"
-  "C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/win32_init.c" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/win32_init.c.obj" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/win32_init.c.obj.d"
-  "C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/win32_joystick.c" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/win32_joystick.c.obj" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/win32_joystick.c.obj.d"
-  "C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/win32_monitor.c" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/win32_monitor.c.obj" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/win32_monitor.c.obj.d"
-  "C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/win32_time.c" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/win32_time.c.obj" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/win32_time.c.obj.d"
-  "C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/win32_tls.c" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/win32_tls.c.obj" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/win32_tls.c.obj.d"
-  "C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/win32_window.c" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/win32_window.c.obj" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/win32_window.c.obj.d"
-  "C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glfw-3.2.1/src/window.c" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/window.c.obj" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/window.c.obj.d"
+  "/Users/faze/Downloads/prak4/libs/glfw-3.2.1/src/cocoa_init.m" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_init.m.o" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_init.m.o.d"
+  "/Users/faze/Downloads/prak4/libs/glfw-3.2.1/src/cocoa_joystick.m" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o.d"
+  "/Users/faze/Downloads/prak4/libs/glfw-3.2.1/src/cocoa_monitor.m" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o.d"
+  "/Users/faze/Downloads/prak4/libs/glfw-3.2.1/src/cocoa_time.c" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_time.c.o" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_time.c.o.d"
+  "/Users/faze/Downloads/prak4/libs/glfw-3.2.1/src/cocoa_window.m" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_window.m.o" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/cocoa_window.m.o.d"
+  "/Users/faze/Downloads/prak4/libs/glfw-3.2.1/src/context.c" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/context.c.o" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/context.c.o.d"
+  "/Users/faze/Downloads/prak4/libs/glfw-3.2.1/src/init.c" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/init.c.o" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/init.c.o.d"
+  "/Users/faze/Downloads/prak4/libs/glfw-3.2.1/src/input.c" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/input.c.o" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/input.c.o.d"
+  "/Users/faze/Downloads/prak4/libs/glfw-3.2.1/src/monitor.c" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/monitor.c.o" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/monitor.c.o.d"
+  "/Users/faze/Downloads/prak4/libs/glfw-3.2.1/src/nsgl_context.m" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/nsgl_context.m.o" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/nsgl_context.m.o.d"
+  "/Users/faze/Downloads/prak4/libs/glfw-3.2.1/src/posix_tls.c" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/posix_tls.c.o" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/posix_tls.c.o.d"
+  "/Users/faze/Downloads/prak4/libs/glfw-3.2.1/src/vulkan.c" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/vulkan.c.o" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/vulkan.c.o.d"
+  "/Users/faze/Downloads/prak4/libs/glfw-3.2.1/src/window.c" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/window.c.o" "gcc" "libs/glfw-3.2.1/src/CMakeFiles/glfw.dir/window.c.o.d"
   )
 
-# Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.

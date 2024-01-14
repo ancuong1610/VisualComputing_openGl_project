@@ -1,91 +1,91 @@
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/CMakeFiles/OpenGL_Praktikum.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/CMakeFiles/list_install_components.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/CMakeFiles/install.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/CMakeFiles/install/local.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/CMakeFiles/install/strip.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/CMakeFiles/edit_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/CMakeFiles/rebuild_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/CMakeFiles/list_install_components.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/CMakeFiles/install.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/CMakeFiles/install/local.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/CMakeFiles/install/strip.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/CMakeFiles/uninstall.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/CMakeFiles/edit_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/CMakeFiles/rebuild_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/CMakeFiles/list_install_components.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/CMakeFiles/install.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/CMakeFiles/install/local.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/CMakeFiles/install/strip.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/glm/CMakeFiles/glm_dummy.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/glm/CMakeFiles/edit_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/glm/CMakeFiles/rebuild_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/glm/CMakeFiles/list_install_components.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/glm/CMakeFiles/install.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/glm/CMakeFiles/install/local.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/glm/CMakeFiles/install/strip.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/CMakeFiles/edit_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/CMakeFiles/rebuild_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/CMakeFiles/list_install_components.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/CMakeFiles/install.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/CMakeFiles/install/local.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/CMakeFiles/install/strip.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/bug/CMakeFiles/edit_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/bug/CMakeFiles/rebuild_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/bug/CMakeFiles/list_install_components.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/bug/CMakeFiles/install.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/bug/CMakeFiles/install/local.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/bug/CMakeFiles/install/strip.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/core/CMakeFiles/edit_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/core/CMakeFiles/rebuild_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/core/CMakeFiles/list_install_components.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/core/CMakeFiles/install.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/core/CMakeFiles/install/local.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/core/CMakeFiles/install/strip.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/ext/CMakeFiles/edit_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/ext/CMakeFiles/rebuild_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/ext/CMakeFiles/list_install_components.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/ext/CMakeFiles/install.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/ext/CMakeFiles/install/local.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/ext/CMakeFiles/install/strip.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/gtc/CMakeFiles/edit_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/gtc/CMakeFiles/rebuild_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/gtc/CMakeFiles/list_install_components.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/gtc/CMakeFiles/install.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/gtc/CMakeFiles/install/local.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/gtc/CMakeFiles/install/strip.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/gtx/CMakeFiles/edit_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/gtx/CMakeFiles/rebuild_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/gtx/CMakeFiles/list_install_components.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/gtx/CMakeFiles/install.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/gtx/CMakeFiles/install/local.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glm-master/test/gtx/CMakeFiles/install/strip.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/CMakeFiles/edit_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/CMakeFiles/rebuild_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/CMakeFiles/list_install_components.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/CMakeFiles/install.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/CMakeFiles/install/local.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/CMakeFiles/install/strip.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/src/CMakeFiles/glfw.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/src/CMakeFiles/edit_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/src/CMakeFiles/rebuild_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/src/CMakeFiles/list_install_components.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/src/CMakeFiles/install.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/src/CMakeFiles/install/local.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glfw-3.2.1/src/CMakeFiles/install/strip.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glew-2.1.0/build/cmake/CMakeFiles/glew.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glew-2.1.0/build/cmake/CMakeFiles/glew_s.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glew-2.1.0/build/cmake/CMakeFiles/edit_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glew-2.1.0/build/cmake/CMakeFiles/rebuild_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glew-2.1.0/build/cmake/CMakeFiles/list_install_components.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glew-2.1.0/build/cmake/CMakeFiles/install.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glew-2.1.0/build/cmake/CMakeFiles/install/local.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/glew-2.1.0/build/cmake/CMakeFiles/install/strip.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/stb/CMakeFiles/stb.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/stb/CMakeFiles/edit_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/stb/CMakeFiles/rebuild_cache.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/stb/CMakeFiles/list_install_components.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/stb/CMakeFiles/install.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/stb/CMakeFiles/install/local.dir
-C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug/libs/stb/CMakeFiles/install/strip.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/CMakeFiles/OpenGL_Praktikum.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/CMakeFiles/list_install_components.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/CMakeFiles/install.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/CMakeFiles/install/local.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/CMakeFiles/install/strip.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/CMakeFiles/edit_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/CMakeFiles/rebuild_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/CMakeFiles/list_install_components.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/CMakeFiles/install.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/CMakeFiles/install/local.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/CMakeFiles/install/strip.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/CMakeFiles/uninstall.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/CMakeFiles/edit_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/CMakeFiles/rebuild_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/CMakeFiles/list_install_components.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/CMakeFiles/install.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/CMakeFiles/install/local.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/CMakeFiles/install/strip.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/glm/CMakeFiles/glm_dummy.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/glm/CMakeFiles/edit_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/glm/CMakeFiles/rebuild_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/glm/CMakeFiles/list_install_components.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/glm/CMakeFiles/install.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/glm/CMakeFiles/install/local.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/glm/CMakeFiles/install/strip.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/CMakeFiles/edit_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/CMakeFiles/rebuild_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/CMakeFiles/list_install_components.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/CMakeFiles/install.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/CMakeFiles/install/local.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/CMakeFiles/install/strip.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/bug/CMakeFiles/edit_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/bug/CMakeFiles/rebuild_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/bug/CMakeFiles/list_install_components.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/bug/CMakeFiles/install.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/bug/CMakeFiles/install/local.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/bug/CMakeFiles/install/strip.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/core/CMakeFiles/edit_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/core/CMakeFiles/rebuild_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/core/CMakeFiles/list_install_components.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/core/CMakeFiles/install.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/core/CMakeFiles/install/local.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/core/CMakeFiles/install/strip.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/ext/CMakeFiles/edit_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/ext/CMakeFiles/rebuild_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/ext/CMakeFiles/list_install_components.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/ext/CMakeFiles/install.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/ext/CMakeFiles/install/local.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/ext/CMakeFiles/install/strip.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/gtc/CMakeFiles/edit_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/gtc/CMakeFiles/rebuild_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/gtc/CMakeFiles/list_install_components.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/gtc/CMakeFiles/install.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/gtc/CMakeFiles/install/local.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/gtc/CMakeFiles/install/strip.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/gtx/CMakeFiles/edit_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/gtx/CMakeFiles/rebuild_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/gtx/CMakeFiles/list_install_components.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/gtx/CMakeFiles/install.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/gtx/CMakeFiles/install/local.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glm-master/test/gtx/CMakeFiles/install/strip.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glfw-3.2.1/CMakeFiles/edit_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glfw-3.2.1/CMakeFiles/rebuild_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glfw-3.2.1/CMakeFiles/list_install_components.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glfw-3.2.1/CMakeFiles/install.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glfw-3.2.1/CMakeFiles/install/local.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glfw-3.2.1/CMakeFiles/install/strip.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glfw-3.2.1/src/CMakeFiles/glfw.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glfw-3.2.1/src/CMakeFiles/edit_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glfw-3.2.1/src/CMakeFiles/rebuild_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glfw-3.2.1/src/CMakeFiles/list_install_components.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glfw-3.2.1/src/CMakeFiles/install.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glfw-3.2.1/src/CMakeFiles/install/local.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glfw-3.2.1/src/CMakeFiles/install/strip.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glew-2.1.0/build/cmake/CMakeFiles/glew.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glew-2.1.0/build/cmake/CMakeFiles/glew_s.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glew-2.1.0/build/cmake/CMakeFiles/edit_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glew-2.1.0/build/cmake/CMakeFiles/rebuild_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glew-2.1.0/build/cmake/CMakeFiles/list_install_components.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glew-2.1.0/build/cmake/CMakeFiles/install.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glew-2.1.0/build/cmake/CMakeFiles/install/local.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/glew-2.1.0/build/cmake/CMakeFiles/install/strip.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/stb/CMakeFiles/stb.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/stb/CMakeFiles/edit_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/stb/CMakeFiles/rebuild_cache.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/stb/CMakeFiles/list_install_components.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/stb/CMakeFiles/install.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/stb/CMakeFiles/install/local.dir
+/Users/faze/Downloads/prak4/cmake-build-debug/libs/stb/CMakeFiles/install/strip.dir

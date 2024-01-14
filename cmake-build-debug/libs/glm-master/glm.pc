@@ -1,4 +1,4 @@
-prefix=C:/Program Files (x86)/OpenGL_Praktikum
+prefix=/usr/local
 includedir=${prefix}/include
 
 Name: GLM

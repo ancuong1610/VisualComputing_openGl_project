@@ -1,6 +1,18 @@
-"C:\Program Files\JetBrains\CLion 2023.1.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "C:\Users\manht\4. Semester\VC\visual-computing-prak2" -B "C:\Users\manht\4. Semester\VC\visual-computing-prak2\cmake-build-debug"
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /Users/faze/Downloads/prak4 -B /Users/faze/Downloads/prak4/cmake-build-debug
+-- The C compiler identification is AppleClang 15.0.0.15000040
+-- The CXX compiler identification is AppleClang 15.0.0.15000040
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
 -- GLM is a header only library, no need to build it. Set the option GLM_TEST_ENABLE with ON to build and run the test bench
-GLM: GCC - GNU compiler
+GLM: Clang - AppleClang compiler
 CMake Deprecation Warning at libs/glfw-3.2.1/CMakeLists.txt:10 (cmake_policy):
   The OLD behavior for policy CMP0042 will be removed from a future version
   of CMake.
@@ -11,8 +23,12 @@ CMake Deprecation Warning at libs/glfw-3.2.1/CMakeLists.txt:10 (cmake_policy):
   behavior and not rely on setting a policy to OLD.
 
 
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
 -- Could NOT find Vulkan (missing: VULKAN_LIBRARY VULKAN_INCLUDE_DIR) 
--- Using Win32 for window creation
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/manht/4. Semester/VC/visual-computing-prak2/cmake-build-debug
+-- Using Cocoa for window creation
+-- Found OpenGL: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk/System/Library/Frameworks/OpenGL.framework   
+-- Configuring done (15.3s)
+-- Generating done (0.2s)
+-- Build files have been written to: /Users/faze/Downloads/prak4/cmake-build-debug

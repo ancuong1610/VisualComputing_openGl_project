@@ -7,7 +7,7 @@ if(CMAKE_VERSION VERSION_LESS "2.8.3")
    message(FATAL_ERROR "CMake >= 2.8.3 required")
 endif()
 cmake_policy(PUSH)
-cmake_policy(VERSION 2.8.3...3.23)
+cmake_policy(VERSION 2.8.3...3.24)
 #----------------------------------------------------------------
 # Generated CMake target import file.
 #----------------------------------------------------------------
@@ -54,7 +54,7 @@ unset(_cmake_expected_targets)
 add_library(glm INTERFACE IMPORTED)
 
 set_target_properties(glm PROPERTIES
-  INTERFACE_INCLUDE_DIRECTORIES "C:/Users/manht/4. Semester/VC/visual-computing-prak2/libs/glm-master"
+  INTERFACE_INCLUDE_DIRECTORIES "/Users/faze/Downloads/prak4/libs/glm-master"
 )
 
 # This file does not depend on other imported targets which have
